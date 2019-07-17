@@ -1,0 +1,50 @@
+Manifest-Version: 1.0
+Built-By: Qutke
+Class-Path: lib/hadoop-client-3.2.0.jar lib/hadoop-hdfs-client-3.2.0.j
+ ar lib/okhttp-2.7.5.jar lib/okio-1.6.0.jar lib/jackson-annotations-2.
+ 9.5.jar lib/hadoop-yarn-api-3.2.0.jar lib/jaxb-api-2.2.11.jar lib/had
+ oop-yarn-client-3.2.0.jar lib/hadoop-mapreduce-client-core-3.2.0.jar 
+ lib/hadoop-yarn-common-3.2.0.jar lib/jersey-client-1.19.jar lib/jacks
+ on-module-jaxb-annotations-2.9.5.jar lib/jackson-jaxrs-json-provider-
+ 2.9.5.jar lib/jackson-jaxrs-base-2.9.5.jar lib/hadoop-mapreduce-clien
+ t-jobclient-3.2.0.jar lib/hadoop-mapreduce-client-common-3.2.0.jar li
+ b/hadoop-annotations-3.2.0.jar lib/hadoop-common-3.2.0.jar lib/guava-
+ 11.0.2.jar lib/commons-cli-1.2.jar lib/commons-math3-3.1.1.jar lib/ht
+ tpclient-4.5.2.jar lib/httpcore-4.4.4.jar lib/commons-codec-1.11.jar 
+ lib/commons-io-2.5.jar lib/commons-net-3.6.jar lib/commons-collection
+ s-3.2.2.jar lib/javax.servlet-api-3.1.0.jar lib/jetty-server-9.3.24.v
+ 20180605.jar lib/jetty-http-9.3.24.v20180605.jar lib/jetty-io-9.3.24.
+ v20180605.jar lib/jetty-util-9.3.24.v20180605.jar lib/jetty-servlet-9
+ .3.24.v20180605.jar lib/jetty-security-9.3.24.v20180605.jar lib/jetty
+ -webapp-9.3.24.v20180605.jar lib/jetty-xml-9.3.24.v20180605.jar lib/j
+ sp-api-2.1.jar lib/jersey-core-1.19.jar lib/jsr311-api-1.1.1.jar lib/
+ jersey-servlet-1.19.jar lib/jersey-json-1.19.jar lib/jettison-1.1.jar
+  lib/jaxb-impl-2.2.3-1.jar lib/jackson-core-asl-1.9.2.jar lib/jackson
+ -mapper-asl-1.9.2.jar lib/jackson-jaxrs-1.9.2.jar lib/jackson-xc-1.9.
+ 2.jar lib/jersey-server-1.19.jar lib/commons-logging-1.1.3.jar lib/lo
+ g4j-1.2.17.jar lib/commons-beanutils-1.9.3.jar lib/commons-configurat
+ ion2-2.1.1.jar lib/commons-lang3-3.7.jar lib/commons-text-1.4.jar lib
+ /slf4j-api-1.7.25.jar lib/slf4j-log4j12-1.7.25.jar lib/avro-1.7.7.jar
+  lib/paranamer-2.3.jar lib/snappy-java-1.0.5.jar lib/re2j-1.1.jar lib
+ /protobuf-java-2.5.0.jar lib/gson-2.2.4.jar lib/hadoop-auth-3.2.0.jar
+  lib/nimbus-jose-jwt-4.41.1.jar lib/jcip-annotations-1.0-1.jar lib/js
+ on-smart-2.3.jar lib/accessors-smart-1.2.jar lib/asm-5.0.4.jar lib/cu
+ rator-framework-2.12.0.jar lib/jsch-0.1.54.jar lib/curator-client-2.1
+ 2.0.jar lib/curator-recipes-2.12.0.jar lib/jsr305-3.0.0.jar lib/htrac
+ e-core4-4.1.0-incubating.jar lib/zookeeper-3.4.13.jar lib/jline-0.9.9
+ 4.jar lib/audience-annotations-0.5.0.jar lib/commons-compress-1.4.1.j
+ ar lib/xz-1.0.jar lib/kerb-simplekdc-1.0.1.jar lib/kerb-client-1.0.1.
+ jar lib/kerby-config-1.0.1.jar lib/kerb-core-1.0.1.jar lib/kerby-pkix
+ -1.0.1.jar lib/kerby-asn1-1.0.1.jar lib/kerby-util-1.0.1.jar lib/kerb
+ -common-1.0.1.jar lib/kerb-crypto-1.0.1.jar lib/kerb-util-1.0.1.jar l
+ ib/token-provider-1.0.1.jar lib/kerb-admin-1.0.1.jar lib/kerb-server-
+ 1.0.1.jar lib/kerb-identity-1.0.1.jar lib/kerby-xdr-1.0.1.jar lib/jac
+ kson-databind-2.9.5.jar lib/jackson-core-2.9.5.jar lib/stax2-api-3.1.
+ 4.jar lib/woodstox-core-5.0.3.jar lib/dnsjava-2.1.7.jar lib/hadoop-hd
+ fs-3.2.0.jar lib/jetty-util-ajax-9.3.24.v20180605.jar lib/commons-dae
+ mon-1.0.13.jar lib/netty-3.10.5.Final.jar lib/netty-all-4.0.52.Final.
+ jar lib/leveldbjni-all-1.8.jar
+Build-Jdk: 1.8.0_101
+Created-By: Maven Integration for Eclipse
+Main-Class: com.qutke.WordCountDriver
+

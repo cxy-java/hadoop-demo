@@ -1,0 +1,14 @@
+com\qutke\WordCountDriver.class
+org\apache\hadoop\io\nativeio\NativeIO$Windows.class
+com\qutke\WordCountMapper.class
+com\qutke\App.class
+org\apache\hadoop\io\nativeio\NativeIO$CachedUid.class
+org\apache\hadoop\io\nativeio\NativeIO$Windows$AccessRight.class
+org\apache\hadoop\io\nativeio\NativeIO$POSIX$CacheManipulator.class
+com\qutke\WordCountReduce.class
+org\apache\hadoop\io\nativeio\NativeIO$POSIX$IdCache.class
+org\apache\hadoop\io\nativeio\NativeIO.class
+org\apache\hadoop\io\nativeio\NativeIO$POSIX$Stat.class
+org\apache\hadoop\io\nativeio\NativeIO$POSIX$NoMlockCacheManipulator.class
+org\apache\hadoop\io\nativeio\NativeIO$POSIX$CachedName.class
+org\apache\hadoop\io\nativeio\NativeIO$POSIX.class
